@@ -11,6 +11,6 @@
 <br />
 <br />
 <br />
-3.&nbsp;When the User ID and Password are correct, then it will dispose of the current frame and take you to the new Window.
+3.&nbsp;When the User ID and Password are correct, then it will dispose the current frame and take you to the new Window.
 <br />
 ![Login3](https://user-images.githubusercontent.com/83022701/148810766-a9ea537c-6c1e-4090-81d2-ad5eea2b369f.png)
